@@ -89,7 +89,7 @@ public class FoxEatsDemo extends Application {
     private String[] finalResult;
     private Callback<String[], Void> callback;
 
-    private String apiKey = "";
+    private String apiKey = "b922b580-6dc6-11e5-9e69-03c0722e0d16";//add my key
     private String filePath;
 
     private List<String[]> input;
